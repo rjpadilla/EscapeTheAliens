@@ -1,0 +1,30 @@
+C:\Users\DeadWood\Desktop\EscapeTheAliens!\Escape the Aliens!\Escape the Aliens!\bin\Debug\Escape the Aliens!.exe.config
+C:\Users\DeadWood\Desktop\EscapeTheAliens!\Escape the Aliens!\Escape the Aliens!\bin\Debug\Escape the Aliens!.exe
+C:\Users\DeadWood\Desktop\EscapeTheAliens!\Escape the Aliens!\Escape the Aliens!\bin\Debug\Escape the Aliens!.pdb
+C:\Users\DeadWood\Desktop\EscapeTheAliens!\Escape the Aliens!\Escape the Aliens!\obj\Debug\MainWindow.g.cs
+C:\Users\DeadWood\Desktop\EscapeTheAliens!\Escape the Aliens!\Escape the Aliens!\obj\Debug\App.g.cs
+C:\Users\DeadWood\Desktop\EscapeTheAliens!\Escape the Aliens!\Escape the Aliens!\obj\Debug\Escape the Aliens!_MarkupCompile.cache
+C:\Users\DeadWood\Desktop\EscapeTheAliens!\Escape the Aliens!\Escape the Aliens!\obj\Debug\Escape the Aliens!_MarkupCompile.lref
+C:\Users\DeadWood\Desktop\EscapeTheAliens!\Escape the Aliens!\Escape the Aliens!\obj\Debug\MainWindow.baml
+C:\Users\DeadWood\Desktop\EscapeTheAliens!\Escape the Aliens!\Escape the Aliens!\obj\Debug\Escape the Aliens!.g.resources
+C:\Users\DeadWood\Desktop\EscapeTheAliens!\Escape the Aliens!\Escape the Aliens!\obj\Debug\Escape_the_Aliens_.Properties.Resources.resources
+C:\Users\DeadWood\Desktop\EscapeTheAliens!\Escape the Aliens!\Escape the Aliens!\obj\Debug\Escape the Aliens!.csproj.GenerateResource.cache
+C:\Users\DeadWood\Desktop\EscapeTheAliens!\Escape the Aliens!\Escape the Aliens!\obj\Debug\Escape the Aliens!.csproj.CoreCompileInputs.cache
+C:\Users\DeadWood\Desktop\EscapeTheAliens!\Escape the Aliens!\Escape the Aliens!\obj\Debug\Escape the Aliens!.exe
+C:\Users\DeadWood\Desktop\EscapeTheAliens!\Escape the Aliens!\Escape the Aliens!\obj\Debug\Escape the Aliens!.pdb
+C:\Users\DeadWood\Desktop\EscapeTheAliens!\Escape the Aliens!\Escape the Aliens!\obj\Debug\Escape the Aliens!.csprojAssemblyReference.cache
+C:\Users\DeadWood\Desktop\EscapeTheAliens\Escape the Aliens!\Escape the Aliens!\bin\Debug\Escape the Aliens!.exe.config
+C:\Users\DeadWood\Desktop\EscapeTheAliens\Escape the Aliens!\Escape the Aliens!\bin\Debug\Escape the Aliens!.exe
+C:\Users\DeadWood\Desktop\EscapeTheAliens\Escape the Aliens!\Escape the Aliens!\bin\Debug\Escape the Aliens!.pdb
+C:\Users\DeadWood\Desktop\EscapeTheAliens\Escape the Aliens!\Escape the Aliens!\obj\Debug\Escape the Aliens!.csprojAssemblyReference.cache
+C:\Users\DeadWood\Desktop\EscapeTheAliens\Escape the Aliens!\Escape the Aliens!\obj\Debug\MainWindow.g.cs
+C:\Users\DeadWood\Desktop\EscapeTheAliens\Escape the Aliens!\Escape the Aliens!\obj\Debug\App.g.cs
+C:\Users\DeadWood\Desktop\EscapeTheAliens\Escape the Aliens!\Escape the Aliens!\obj\Debug\Escape the Aliens!_MarkupCompile.cache
+C:\Users\DeadWood\Desktop\EscapeTheAliens\Escape the Aliens!\Escape the Aliens!\obj\Debug\Escape the Aliens!_MarkupCompile.lref
+C:\Users\DeadWood\Desktop\EscapeTheAliens\Escape the Aliens!\Escape the Aliens!\obj\Debug\MainWindow.baml
+C:\Users\DeadWood\Desktop\EscapeTheAliens\Escape the Aliens!\Escape the Aliens!\obj\Debug\Escape the Aliens!.g.resources
+C:\Users\DeadWood\Desktop\EscapeTheAliens\Escape the Aliens!\Escape the Aliens!\obj\Debug\Escape_the_Aliens_.Properties.Resources.resources
+C:\Users\DeadWood\Desktop\EscapeTheAliens\Escape the Aliens!\Escape the Aliens!\obj\Debug\Escape the Aliens!.csproj.GenerateResource.cache
+C:\Users\DeadWood\Desktop\EscapeTheAliens\Escape the Aliens!\Escape the Aliens!\obj\Debug\Escape the Aliens!.csproj.CoreCompileInputs.cache
+C:\Users\DeadWood\Desktop\EscapeTheAliens\Escape the Aliens!\Escape the Aliens!\obj\Debug\Escape the Aliens!.exe
+C:\Users\DeadWood\Desktop\EscapeTheAliens\Escape the Aliens!\Escape the Aliens!\obj\Debug\Escape the Aliens!.pdb
